@@ -1,3 +1,12 @@
+# Non-parametric model (NID) feedforward control deplyment on the real robot
+
+https://github.com/EduardoRosLab/Baxter_Dynamic_Model/assets/45313868/53a87512-1da1-4947-ba22-3ba1d0be5a56  
+
+The video depicts the Baxter controlled by the NID neural network in a feedforward loop. We
+compared the NID performance (accuracy) to a conventional PD. We also compared their performances
+under perturbations. We finally showed NID ability to track the reference trajectory
+in the absence of active feedback control.
+
 # Dataset Baxter robot
 
 This dataset contains the training and test 
@@ -37,3 +46,7 @@ is applied in order to follow a trajectory.
 8:14  joint velocities, from s0 to w2  
 
 15:21 joint torques, from s0 to w2
+
+
+
+
